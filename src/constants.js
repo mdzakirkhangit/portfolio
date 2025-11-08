@@ -51,6 +51,8 @@ import dpslogo from './assets/education_logo/dps_logo.jpg';
 // import vpsLogo from './assets/education_logo/vps_logo.png';
 
 // Project Section Logo's
+
+
 // import githubdetLogo from './assets/work_logo/github_det.png';
 // import csprepLogo from './assets/work_logo/cs_prep.png';
 import movierecLogo from './assets/work_logo/movie_rec.png';
@@ -191,7 +193,7 @@ export const SkillsInfo = [
       school: " Chandigarh Group of Colleges - [CGC] Jhanjeri",
       date: "Sept 2022 - June 2026",
       grade: "84%",
-      desc: "I'm pursuing my Bachelor's degree in (Artificial Intelligence & Data Science) from CGC, Jhanjeri. Throughout my studies, I was immersed in a variety of subjects that deepened my understanding of computing and technology. From exploring Data Structures and Algorithms to diving into Web Development and Database Management Systems, I gained practical insights into the world of software development. My time at CGC allowed me to work on projects that applied theoretical concepts to real-world problems.",
+      desc: "I'm pursuing my Bachelor's degree in (Artificial Intelligence & Data Science) from CGC, Jhanjeri. Throughout my studies, I was immersed in a variety of subjects that deepened my understanding of computing and technology. From exploring Data Structures and Algorithms to diving into Web Development and Database Management Systems.",
       degree: "Bachelor of Technology - B.Tech (Artificial Intelligence & Data Science)",
     },
     {
